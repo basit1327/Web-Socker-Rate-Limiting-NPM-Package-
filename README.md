@@ -4,5 +4,5 @@
 ![alt text](https://i.ibb.co/M56CZ97/Screenshot-2020-12-04-112434.png)
 
 
-###Token Based rate limiter for web socket to prevent DOS Attack and bulk connection request. 
-#####Just place rate limiter in socket on connection event, Allow tokens of your own choice for 1 minutes duration and done.
+### Token Based rate limiter for web socket to prevent DOS Attack and bulk connection request. 
+##### Just place rate limiter in socket on connection event, Allow tokens of your own choice for 1 minutes duration and done.
