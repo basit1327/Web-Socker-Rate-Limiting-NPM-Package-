@@ -1,5 +1,5 @@
 /**
- * @author Basit Raza <basitraza@vizzwebsolutions.com>
+ * @author Basit Raza
  * @link http://be.net/basit_raza Author Website
  * @since 2020-10-29
  */
